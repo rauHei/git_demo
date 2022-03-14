@@ -4,4 +4,4 @@ Lisäsin tämän Githubissa
 Tätä tekstiä ei ole paikallisessa työhakemistossa.
 =======
 Tätä tekstiä ei ole Githubissa
->>>>>>> Stashed changes
+Lisäsin tämän Githubissa
