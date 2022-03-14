@@ -1,3 +1,4 @@
+Lisäsin tämän paikallisessa työhakemistossa
 Lisäsin tämän Githubissa
 <<<<<<< Updated upstream
 Tätä tekstiä ei ole paikallisessa työhakemistossa.
