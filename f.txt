@@ -1,3 +1,4 @@
+Testasin merge konfliktia
 Lisäsin tämän paikallisessa työhakemistossa
 Lisäsin tämän Githubissa
 <<<<<<< Updated upstream
