@@ -1,7 +1,9 @@
+konfliktin ratkaisu..
 Testasin merge konfliktia
 Lisäsin tämän paikallisessa työhakemistossa
+=======
+Testaus merge
 Lisäsin tämän Githubissa
-<<<<<<< Updated upstream
 Tätä tekstiä ei ole paikallisessa työhakemistossa.
 =======
 Tätä tekstiä ei ole Githubissa
